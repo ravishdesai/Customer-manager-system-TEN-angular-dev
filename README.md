@@ -24,6 +24,3 @@ Simply clone the project or download and extract the .zip to get started.
 1. Run `npm start` in a separate terminal window to build the TypeScript code and watch for changes
 
 1. Browser to http://localhost:3000
-
-We're hard at work on a new Angular 2 hands-on/instructor-led training course 
-as well as a video course that will be released in 2016!
